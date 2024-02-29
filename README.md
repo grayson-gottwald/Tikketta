@@ -1,2 +1,0 @@
-# Tikketta
-Endeavor2
